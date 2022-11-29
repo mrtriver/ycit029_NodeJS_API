@@ -84,3 +84,4 @@ app.get("/pokemon-as-array-of-objects", (req, res) => {
 app.listen(3456, () => {
   console.log("Server started successfully using port 3456!!!");
 });
+console.log("M.irmak mrt");
