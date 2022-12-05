@@ -1,13 +1,17 @@
 {
-    "scripts": {
-        "dev": "nodemon main.js"
-    },
-    
-"dependencies": {   
-"express": "^4.18.2"    
-},
-    
-"devDependencies": {   
-"nodemon": "^2.0.20"    
-}
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "servertrial",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
